@@ -1,0 +1,11 @@
+c:\Users\Tribone\documents\visual studio 2013\Projects\EasyPost\EasyPostTest\bin\Debug\EasyPostTest.dll
+c:\Users\Tribone\documents\visual studio 2013\Projects\EasyPost\EasyPostTest\bin\Debug\EasyPostTest.pdb
+c:\Users\Tribone\documents\visual studio 2013\Projects\EasyPost\EasyPostTest\bin\Debug\EasyPost.dll
+c:\Users\Tribone\documents\visual studio 2013\Projects\EasyPost\EasyPostTest\bin\Debug\EasyPost.pdb
+c:\Users\Tribone\documents\visual studio 2013\Projects\EasyPost\EasyPostTest\obj\Debug\EasyPostTest.csprojResolveAssemblyReference.cache
+c:\Users\Tribone\documents\visual studio 2013\Projects\EasyPost\EasyPostTest\obj\Debug\EasyPostTest.dll
+c:\Users\Tribone\documents\visual studio 2013\Projects\EasyPost\EasyPostTest\obj\Debug\EasyPostTest.pdb
+c:\Users\Tribone\documents\visual studio 2013\Projects\EasyPost\EasyPostTest\bin\Debug\RestSharp.dll
+c:\Users\Tribone\documents\visual studio 2013\Projects\EasyPost\EasyPostTest\bin\Debug\RestSharp.xml
+C:\Users\Tribone\Documents\Visual Studio 2013\Projects\EasyPost\EasyPostTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tribone\Documents\Visual Studio 2013\Projects\EasyPost\EasyPostTest\bin\Debug\Newtonsoft.Json.xml

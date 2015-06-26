@@ -1,0 +1,14 @@
+C:\Dev\EasyPostGetRates\EasyPostGetRates\bin\Debug\EasyPostGetRates.exe.config
+C:\Dev\EasyPostGetRates\EasyPostGetRates\bin\Debug\EasyPostGetRates.XML
+C:\Dev\EasyPostGetRates\EasyPostGetRates\bin\Debug\EasyPostGetRates.exe
+C:\Dev\EasyPostGetRates\EasyPostGetRates\bin\Debug\EasyPostGetRates.pdb
+C:\Dev\EasyPostGetRates\EasyPostGetRates\bin\Debug\EasyPost.dll
+C:\Dev\EasyPostGetRates\EasyPostGetRates\bin\Debug\FSharp.Core.dll
+C:\Dev\EasyPostGetRates\EasyPostGetRates\bin\Debug\Newtonsoft.Json.dll
+C:\Dev\EasyPostGetRates\EasyPostGetRates\bin\Debug\RestSharp.dll
+C:\Dev\EasyPostGetRates\EasyPostGetRates\bin\Debug\EasyPost.pdb
+C:\Dev\EasyPostGetRates\EasyPostGetRates\bin\Debug\FSharp.Core.xml
+C:\Dev\EasyPostGetRates\EasyPostGetRates\bin\Debug\Newtonsoft.Json.xml
+C:\Dev\EasyPostGetRates\EasyPostGetRates\bin\Debug\RestSharp.xml
+C:\Dev\EasyPostGetRates\EasyPostGetRates\obj\Debug\EasyPostGetRates.exe
+C:\Dev\EasyPostGetRates\EasyPostGetRates\obj\Debug\EasyPostGetRates.pdb

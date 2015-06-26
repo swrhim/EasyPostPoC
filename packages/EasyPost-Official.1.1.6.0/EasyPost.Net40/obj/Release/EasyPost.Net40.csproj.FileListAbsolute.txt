@@ -1,0 +1,7 @@
+C:\Users\Tribone\Documents\Visual Studio 2013\Projects\EasyPost\EasyPost\lib\net40\EasyPost.Net40.dll
+C:\Users\Tribone\Documents\Visual Studio 2013\Projects\EasyPost\EasyPost\lib\net40\EasyPost.Net40.pdb
+C:\Users\Tribone\Documents\Visual Studio 2013\Projects\EasyPost\EasyPost.Net40\obj\Release\EasyPost.Net40.dll
+C:\Users\Tribone\Documents\Visual Studio 2013\Projects\EasyPost\EasyPost.Net40\obj\Release\EasyPost.Net40.pdb
+C:\Users\Tribone\Documents\Visual Studio 2013\Projects\EasyPost\lib\net40\EasyPost.Net40.dll
+C:\Users\Tribone\Documents\Visual Studio 2013\Projects\EasyPost\lib\net40\EasyPost.Net40.pdb
+C:\Users\Tribone\Documents\Visual Studio 2013\Projects\EasyPost\EasyPost.Net40\obj\Release\EasyPost.Net40.csprojResolveAssemblyReference.cache
